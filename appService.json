@@ -10,6 +10,24 @@
                 "label": "Default",
                 "memory": 256,
                 "description": "Default configuration"
+            },
+            {
+                "name": "medium",
+                "label": "Medium",
+                "memory": 512,
+                "description": "Medium configuration"
+            },
+            {
+                "name": "big",
+                "label": "Big",
+                "memory": 768,
+                "description": "Big configuration"
+            },
+            {
+                "name": "superBig",
+                "label": "Super big",
+                "memory": 1024,
+                "description": "Super big configuration"
             }
         ],
         "allowMultipleInstances": true
